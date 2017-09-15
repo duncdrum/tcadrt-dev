@@ -1,0 +1,210 @@
+00:10:10.343	139.162.79.87:38324	admin	REQUEST	[GET] http://207.58.154.226:8080/
+00:10:13.636	139.162.79.87:38324	admin	200		3293.05 ms
+00:10:13.661	139.162.79.87:41998	admin	REQUEST	[GET] http://clientapi.ipip.net/echo.php?info=20170514081013
+00:10:13.661	139.162.79.87:41998	admin	404	No function found that matches the request.	0.54 ms
+00:34:19.822	66.249.64.189:40979	admin	REQUEST	[GET] http://tcadrt.org/robots.txt
+00:34:19.850	66.249.64.189:40979	admin	404	No function found that matches the request.	28.13 ms
+00:34:19.879	66.249.64.185:37519	admin	REQUEST	[GET] http://tcadrt.org/image/4820717525
+00:34:20.472	66.249.64.185:37519	admin	303		593.32 ms
+00:34:20.472	66.249.64.185:37519	admin	200		0.15 ms
+00:34:20.866	66.249.64.185:37519	admin	REQUEST	[GET] http://tcadrt.org/image/4820717525.htm
+00:34:21.009	66.249.64.185:37519	admin	302		142.77 ms
+00:34:21.009	66.249.64.185:37519	admin	200		0.15 ms
+01:50:06.588	66.249.64.189:64886	admin	REQUEST	[GET] http://tcadrt.org/image/4822346214
+01:50:07.298	66.249.64.189:64886	admin	303		709.86 ms
+01:50:07.298	66.249.64.189:64886	admin	200		0.14 ms
+01:50:07.586	66.249.64.181:44379	admin	REQUEST	[GET] http://tcadrt.org/image/4822346214.htm
+01:50:07.734	66.249.64.181:44379	admin	302		147.98 ms
+01:50:07.734	66.249.64.181:44379	admin	200		0.14 ms
+05:16:13.604	196.52.43.55:10000	admin	REQUEST	[GET] http://localhost:8080/
+05:16:14.323	196.52.43.55:10000	admin	200		719.98 ms
+05:25:09.072	222.29.106.208:63341	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+05:25:09.112	222.29.106.208:63341	admin	404	No function found that matches the request.	39.54 ms
+05:34:59.383	222.186.21.154:3495	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+05:34:59.417	222.186.21.154:3495	admin	404	No function found that matches the request.	34.05 ms
+06:32:52.933	91.236.75.4:57696	admin	REQUEST	[GET] http://www.google.com/
+06:32:55.156	91.236.75.4:57696	admin	200		2223.64 ms
+06:56:17.453	203.154.115.180:2661	admin	REQUEST	[GET] http://207.58.154.226/phpMyAdmin/scripts/setup.php
+06:56:17.474	203.154.115.180:2661	admin	404	No function found that matches the request.	21.82 ms
+06:57:35.945	203.154.115.180:9071	admin	REQUEST	[GET] http://207.58.154.226/pma/scripts/setup.php
+06:57:35.978	203.154.115.180:9071	admin	404	No function found that matches the request.	33.16 ms
+06:58:54.394	203.154.115.180:10537	admin	REQUEST	[GET] http://207.58.154.226/myadmin/scripts/setup.php
+06:58:54.422	203.154.115.180:10537	admin	404	No function found that matches the request.	27.95 ms
+07:01:11.567	64.246.165.210:46204	admin	REQUEST	[GET] http://www.areiaoesporte.com.br/robots.txt
+07:01:11.595	64.246.165.210:46204	admin	404	No function found that matches the request.	28.1 ms
+07:01:11.763	64.246.165.210:46208	admin	REQUEST	[GET] http://www.areiaoesporte.com.br/
+07:01:13.096	64.246.165.210:46208	admin	200		1333.61 ms
+07:41:46.109	162.105.8.55:57730	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+07:41:46.137	162.105.8.55:57730	admin	404	No function found that matches the request.	28.52 ms
+07:42:02.170	162.105.8.55:57788	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+07:42:02.198	162.105.8.55:57788	admin	404	No function found that matches the request.	27.96 ms
+11:40:27.201	66.249.83.65:45987	admin	REQUEST	[GET] http://tcadrt.org/
+11:40:27.644	66.249.83.65:45987	admin	200		443.07 ms
+11:57:45.813	66.249.64.189:36891	admin	REQUEST	[GET] http://tcadrt.org/image/3824151849
+11:57:46.627	66.249.64.189:36891	admin	303		814.23 ms
+11:57:46.627	66.249.64.189:36891	admin	200		0.1 ms
+11:57:47.064	66.249.64.181:54471	admin	REQUEST	[GET] http://tcadrt.org/image/3824151849.htm
+11:57:47.206	66.249.64.181:54471	admin	302		142.58 ms
+11:57:47.206	66.249.64.181:54471	admin	200		0.14 ms
+11:58:06.526	66.249.64.181:54471	admin	REQUEST	[GET] http://tcadrt.org/image/4831106101
+11:58:06.605	66.249.64.181:54471	admin	303		80.12 ms
+11:58:06.606	66.249.64.181:54471	admin	200		0.11 ms
+11:58:06.931	66.249.64.181:54471	admin	REQUEST	[GET] http://tcadrt.org/image/4831106101.htm
+11:58:07.039	66.249.64.181:54471	admin	302		108.63 ms
+11:58:07.040	66.249.64.181:54471	admin	200		0.11 ms
+11:59:20.704	66.249.64.189:56953	admin	REQUEST	[GET] http://tcadrt.org/image/4835660502
+11:59:21.684	66.249.64.189:56953	admin	303		980.25 ms
+11:59:21.684	66.249.64.189:56953	admin	200		0.14 ms
+11:59:21.807	66.249.64.185:37157	admin	REQUEST	[GET] http://tcadrt.org/image/4835660502.htm
+11:59:22.030	66.249.64.185:37157	admin	302		222.95 ms
+11:59:22.030	66.249.64.185:37157	admin	200		0.14 ms
+11:59:33.678	66.249.64.185:37157	admin	REQUEST	[GET] http://tcadrt.org/image/4836616800
+11:59:33.800	66.249.64.185:37157	admin	303		122.28 ms
+11:59:33.800	66.249.64.185:37157	admin	200		0.16 ms
+11:59:34.431	66.249.64.185:37157	admin	REQUEST	[GET] http://tcadrt.org/image/4836616800.htm
+11:59:34.576	66.249.64.185:37157	admin	302		144.82 ms
+11:59:34.576	66.249.64.185:37157	admin	200		0.14 ms
+12:00:51.163	66.249.64.185:36468	admin	REQUEST	[GET] http://tcadrt.org/image/4841721010
+12:00:54.493	66.249.64.185:36468	admin	303		3330.36 ms
+12:00:54.493	66.249.64.185:36468	admin	200		0.15 ms
+12:00:54.567	66.249.64.181:40246	admin	REQUEST	[GET] http://tcadrt.org/image/4841721010.htm
+12:00:54.820	66.249.64.181:40246	admin	302		253.2 ms
+12:00:54.820	66.249.64.181:40246	admin	200		0.14 ms
+12:02:53.206	66.249.64.185:33348	admin	REQUEST	[GET] http://tcadrt.org/image/4836009033
+12:02:55.822	66.249.64.185:33348	admin	303		2616.07 ms
+12:02:55.822	66.249.64.185:33348	admin	200		0.13 ms
+12:02:57.111	66.249.64.181:55884	admin	REQUEST	[GET] http://tcadrt.org/image/4836009033.htm
+12:02:57.280	66.249.64.181:55884	admin	302		169.01 ms
+12:02:57.280	66.249.64.181:55884	admin	200		0.14 ms
+12:04:15.898	66.249.64.189:48461	admin	REQUEST	[GET] http://tcadrt.org/image/4819522318
+12:04:16.029	66.249.64.189:48461	admin	303		131.39 ms
+12:04:16.029	66.249.64.189:48461	admin	200		0.15 ms
+12:04:16.289	66.249.64.189:48461	admin	REQUEST	[GET] http://tcadrt.org/image/4819522318.htm
+12:04:16.510	66.249.64.189:48461	admin	302		221.35 ms
+12:04:16.510	66.249.64.189:48461	admin	200		0.14 ms
+12:05:20.517	66.249.64.185:53745	admin	REQUEST	[GET] http://tcadrt.org/image/4820672889
+12:05:20.641	66.249.64.185:53745	admin	303		123.6 ms
+12:05:20.641	66.249.64.185:53745	admin	200		0.15 ms
+12:05:20.908	66.249.64.185:53745	admin	REQUEST	[GET] http://tcadrt.org/image/4820672889.htm
+12:05:21.144	66.249.64.185:53745	admin	302		236.2 ms
+12:05:21.144	66.249.64.185:53745	admin	200		0.13 ms
+12:08:01.290	66.249.64.181:34978	admin	REQUEST	[GET] http://tcadrt.org/image/4821637218
+12:08:01.492	66.249.64.181:34978	admin	303		202.63 ms
+12:08:01.492	66.249.64.181:34978	admin	200		0.13 ms
+12:08:02.269	66.249.64.189:46124	admin	REQUEST	[GET] http://tcadrt.org/image/4821637218.htm
+12:08:02.407	66.249.64.189:46124	admin	302		138.12 ms
+12:08:02.408	66.249.64.189:46124	admin	200		0.14 ms
+12:09:44.004	66.249.64.181:62636	admin	REQUEST	[GET] http://tcadrt.org/image/3824132179
+12:09:44.113	66.249.64.181:62636	admin	303		109.43 ms
+12:09:44.113	66.249.64.181:62636	admin	200		0.24 ms
+12:09:44.409	66.249.64.185:39719	admin	REQUEST	[GET] http://tcadrt.org/image/3824132179.htm
+12:09:44.623	66.249.64.185:39719	admin	302		213.54 ms
+12:09:44.623	66.249.64.185:39719	admin	200		0.14 ms
+12:14:02.165	66.249.64.189:51973	admin	REQUEST	[GET] http://tcadrt.org/image/4841112339
+12:14:02.568	66.249.64.189:51973	admin	303		402.4 ms
+12:14:02.568	66.249.64.189:51973	admin	200		0.14 ms
+12:14:03.221	66.249.64.181:40987	admin	REQUEST	[GET] http://tcadrt.org/image/4841112339.htm
+12:14:03.354	66.249.64.181:40987	admin	302		133.31 ms
+12:14:03.354	66.249.64.181:40987	admin	200		0.12 ms
+12:16:20.493	104.237.95.107:50000	admin	REQUEST	[GET] http://tcadrt.org/
+12:16:21.376	104.237.95.107:50000	admin	200		882.51 ms
+12:16:24.247	104.237.95.107:49998	admin	REQUEST	[GET] http://tcadrt.org/tool
+12:16:24.316	104.237.95.107:49998	admin	200		68.3 ms
+12:19:44.061	66.249.64.128:58951	admin	REQUEST	[GET] http://areiaoesporte.com.br/robots.txt
+12:19:44.092	66.249.64.128:58951	admin	404	No function found that matches the request.	30.76 ms
+12:19:44.121	66.249.64.189:43677	admin	REQUEST	[GET] http://areiaoesporte.com.br/
+12:19:44.216	66.249.64.189:43677	admin	200		96.01 ms
+12:23:38.611	162.105.8.55:61994	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+12:23:38.639	162.105.8.55:61994	admin	404	No function found that matches the request.	28.13 ms
+12:24:04.284	66.249.64.181:37242	admin	REQUEST	[GET] http://tcadrt.org/
+12:24:04.353	66.249.64.181:37242	admin	200		68.89 ms
+12:47:24.004	196.52.43.54:10000	admin	REQUEST	[GET] http://localhost:8080/
+12:47:24.814	196.52.43.54:10000	admin	200		810.3 ms
+12:49:47.730	66.249.64.181:65142	admin	REQUEST	[GET] http://tcadrt.org/robots.txt
+12:49:47.757	66.249.64.181:65142	admin	404	No function found that matches the request.	27.51 ms
+12:49:47.773	66.249.64.181:65142	admin	REQUEST	[GET] http://tcadrt.org/image/4108211457
+12:49:48.737	66.249.64.181:65142	admin	303		963.89 ms
+12:49:48.737	66.249.64.181:65142	admin	200		0.14 ms
+12:49:48.806	66.249.64.181:65142	admin	REQUEST	[GET] http://tcadrt.org/image/4108211457.htm
+12:49:48.957	66.249.64.181:65142	admin	302		150.74 ms
+12:49:48.957	66.249.64.181:65142	admin	200		0.16 ms
+13:15:46.384	66.249.64.181:53547	admin	REQUEST	[GET] http://tcadrt.org/
+13:15:47.273	66.249.64.181:53547	admin	200		889.8 ms
+13:29:59.109	162.105.8.55:62510	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+13:29:59.142	162.105.8.55:62510	admin	404	No function found that matches the request.	33.98 ms
+13:34:21.865	31.210.102.114:60000	admin	REQUEST	[GET] http://localhost:8080/
+13:34:22.817	31.210.102.114:60000	admin	200		952.37 ms
+14:01:35.451	66.249.64.185:46508	admin	REQUEST	[GET] http://tcadrt.org/tool
+14:01:37.192	66.249.64.185:46508	admin	200		1741.52 ms
+14:01:37.223	66.249.64.181:48374	admin	REQUEST	[GET] http://tcadrt.org/tool
+14:01:37.257	66.249.64.181:48374	admin	200		34.29 ms
+14:05:34.430	66.249.64.189:35729	admin	REQUEST	[GET] http://tcadrt.org/image/4108208599
+14:05:34.558	66.249.64.189:35729	admin	303		127.59 ms
+14:05:34.558	66.249.64.189:35729	admin	200		0.15 ms
+14:05:34.818	66.249.64.189:35729	admin	REQUEST	[GET] http://tcadrt.org/image/4108208599.htm
+14:05:34.962	66.249.64.189:35729	admin	302		144.66 ms
+14:05:34.962	66.249.64.189:35729	admin	200		0.14 ms
+14:20:28.045	222.29.106.208:62471	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+14:20:28.072	222.29.106.208:62471	admin	404	No function found that matches the request.	27.13 ms
+14:32:55.683	183.57.38.82:1056	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+14:32:55.711	183.57.38.82:1056	admin	404	No function found that matches the request.	28.47 ms
+14:39:18.483	222.29.106.208:65107	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+14:39:18.511	222.29.106.208:65107	admin	404	No function found that matches the request.	27.6 ms
+15:03:29.722	175.197.37.159:57364	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+15:03:29.749	175.197.37.159:57364	admin	404	No function found that matches the request.	27.25 ms
+15:08:10.211	183.57.38.82:3680	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+15:08:10.238	183.57.38.82:3680	admin	404	No function found that matches the request.	26.66 ms
+15:11:12.771	175.197.37.159:57781	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+15:11:12.799	175.197.37.159:57781	admin	404	No function found that matches the request.	28.12 ms
+15:21:21.585	66.249.64.185:47047	admin	REQUEST	[GET] http://tcadrt.org/image/4818889473
+15:21:22.517	66.249.64.185:47047	admin	303		932.24 ms
+15:21:22.518	66.249.64.185:47047	admin	200		0.15 ms
+15:21:22.604	66.249.64.189:53180	admin	REQUEST	[GET] http://tcadrt.org/image/4818889473.htm
+15:21:22.747	66.249.64.189:53180	admin	302		142.94 ms
+15:21:22.747	66.249.64.189:53180	admin	200		0.16 ms
+15:54:16.179	5.188.10.102:52850	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+15:54:16.206	5.188.10.102:52850	admin	404	No function found that matches the request.	27.4 ms
+16:11:15.887	66.249.64.181:56137	admin	REQUEST	[GET] http://tcadrt.org/
+16:11:16.926	66.249.64.181:56137	admin	200		1039.61 ms
+16:37:08.580	66.249.64.189:38861	admin	REQUEST	[GET] http://tcadrt.org/image/4831092645
+16:37:09.244	66.249.64.189:38861	admin	303		663.85 ms
+16:37:09.244	66.249.64.189:38861	admin	200		0.12 ms
+16:37:09.579	66.249.64.185:51847	admin	REQUEST	[GET] http://tcadrt.org/image/4831092645.htm
+16:37:09.679	66.249.64.185:51847	admin	302		99.66 ms
+16:37:09.679	66.249.64.185:51847	admin	200		0.1 ms
+17:54:09.021	66.249.64.181:63806	admin	REQUEST	[GET] http://tcadrt.org/image/4821740939
+17:54:10.009	66.249.64.181:63806	admin	303		987.93 ms
+17:54:10.009	66.249.64.181:63806	admin	200		0.17 ms
+17:54:10.086	66.249.64.185:48120	admin	REQUEST	[GET] http://tcadrt.org/image/4821740939.htm
+17:54:10.269	66.249.64.185:48120	admin	302		183.19 ms
+17:54:10.269	66.249.64.185:48120	admin	200		0.14 ms
+17:57:54.783	66.249.64.189:43179	admin	REQUEST	[GET] http://tcadrt.org/
+17:57:54.874	66.249.64.189:43179	admin	200		91.83 ms
+19:08:42.926	66.249.64.181:55703	admin	REQUEST	[GET] http://tcadrt.org/image/4840962637
+19:08:43.603	66.249.64.181:55703	admin	303		677.76 ms
+19:08:43.604	66.249.64.181:55703	admin	200		0.15 ms
+19:08:43.916	66.249.64.181:55703	admin	REQUEST	[GET] http://tcadrt.org/image/4840962637.htm
+19:08:44.123	66.249.64.181:55703	admin	302		207.3 ms
+19:08:44.123	66.249.64.181:55703	admin	200		0.14 ms
+20:24:29.585	66.249.64.189:58562	admin	REQUEST	[GET] http://tcadrt.org/image/4841695882
+20:24:30.240	66.249.64.189:58562	admin	303		655.99 ms
+20:24:30.240	66.249.64.189:58562	admin	200		0.14 ms
+20:24:30.587	66.249.64.185:50959	admin	REQUEST	[GET] http://tcadrt.org/image/4841695882.htm
+20:24:30.738	66.249.64.185:50959	admin	302		151.34 ms
+20:24:30.738	66.249.64.185:50959	admin	200		0.14 ms
+21:09:41.066	5.188.10.102:54658	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+21:09:41.094	5.188.10.102:54658	admin	404	No function found that matches the request.	27.85 ms
+21:31:15.892	66.249.64.128:39922	admin	REQUEST	[GET] http://areiaoesporte.com.br/
+21:31:17.068	66.249.64.128:39922	admin	200		1175.83 ms
+21:40:16.569	66.249.64.181:58674	admin	REQUEST	[GET] http://tcadrt.org/image/4836585728
+21:40:16.743	66.249.64.181:58674	admin	303		174.43 ms
+21:40:16.743	66.249.64.181:58674	admin	200		0.13 ms
+21:40:17.558	66.249.64.181:58674	admin	REQUEST	[GET] http://tcadrt.org/image/4836585728.htm
+21:40:17.711	66.249.64.181:58674	admin	302		153.49 ms
+21:40:17.712	66.249.64.181:58674	admin	200		0.15 ms
+22:56:03.586	66.249.64.185:62726	admin	REQUEST	[GET] http://tcadrt.org/image/4821269027
+22:56:07.039	66.249.64.185:62726	admin	303		3454.03 ms
+22:56:07.040	66.249.64.185:62726	admin	200		0.14 ms
+22:56:07.130	66.249.64.181:48815	admin	REQUEST	[GET] http://tcadrt.org/image/4821269027.htm
+22:56:07.290	66.249.64.181:48815	admin	302		159.62 ms
+22:56:07.290	66.249.64.181:48815	admin	200		0.12 ms

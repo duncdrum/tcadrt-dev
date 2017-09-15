@@ -1,0 +1,132 @@
+00:32:13.957	222.186.58.186:2476	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+00:32:13.983	222.186.58.186:2476	admin	404	No function found that matches the request.	26.19 ms
+00:37:02.473	91.230.47.3:33136	admin	REQUEST	[GET] http://localhost:8080/
+00:37:02.901	91.230.47.3:33136	admin	200		427.87 ms
+01:00:22.808	139.199.175.214:50485	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+01:00:22.826	139.199.175.214:50485	admin	404	No function found that matches the request.	18.42 ms
+01:39:56.154	91.230.47.3:55691	admin	REQUEST	[GET] http://localhost:8080/
+01:40:00.460	91.230.47.3:55691	admin	200		4306.11 ms
+02:05:57.048	71.6.202.204:48580	admin	REQUEST	[GET] http://207.58.154.226/
+02:05:59.781	71.6.202.204:48580	admin	200		2732.96 ms
+02:19:59.801	66.249.88.35:47628	admin	REQUEST	[GET] http://tcadrt.org/
+02:20:00.638	66.249.88.35:47628	admin	200		837.36 ms
+02:27:35.443	14.174.105.101:4232	admin	REQUEST	[GET] http://localhost:8080/
+02:27:35.577	14.174.105.101:4232	admin	200		133.58 ms
+02:31:16.765	163.172.156.159:47792	admin	REQUEST	[GET] http://tcadrt.org/
+02:31:22.296	163.172.156.159:47792	admin	200		5532.09 ms
+03:12:01.255	59.66.34.205:62349	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:12:01.282	59.66.34.205:62349	admin	404	No function found that matches the request.	26.54 ms
+03:20:16.343	5.188.10.104:46594	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+03:20:16.369	5.188.10.104:46594	admin	404	No function found that matches the request.	26.55 ms
+03:34:42.655	5.188.10.104:34588	admin	REQUEST	[GET] http://207.58.154.226/index.action
+03:34:42.682	5.188.10.104:34588	admin	404	No function found that matches the request.	27.88 ms
+03:44:01.198	59.66.34.205:59875	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:44:01.215	59.66.34.205:59875	admin	404	No function found that matches the request.	17.19 ms
+03:52:04.483	169.54.244.89:55529	admin	REQUEST	[GET] http://tcadrt.org/
+03:52:05.248	169.54.244.89:55529	admin	200		765.15 ms
+04:01:21.826	91.230.47.3:37608	admin	REQUEST	[GET] http://localhost:8080/
+04:01:21.956	91.230.47.3:37608	admin	200		130.64 ms
+05:02:12.437	91.230.47.3:35274	admin	REQUEST	[GET] http://localhost:8080/
+05:02:12.906	91.230.47.3:35274	admin	200		469.06 ms
+05:11:10.119	59.66.34.205:65057	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+05:11:10.145	59.66.34.205:65057	admin	404	No function found that matches the request.	26.49 ms
+05:32:50.587	115.231.218.24:4017	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+05:32:50.613	115.231.218.24:4017	admin	404	No function found that matches the request.	26.7 ms
+05:52:25.305	118.193.160.156:1182	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+05:52:25.322	118.193.160.156:1182	admin	404	No function found that matches the request.	17.09 ms
+06:04:11.125	66.249.64.155:40345	admin	REQUEST	[GET] http://tcadrt.org/robots.txt
+06:04:11.151	66.249.64.155:40345	admin	404	No function found that matches the request.	26.58 ms
+06:04:11.181	66.249.64.157:42559	admin	REQUEST	[GET] http://tcadrt.org/
+06:04:11.593	66.249.64.157:42559	admin	200		412.51 ms
+06:26:43.931	139.162.79.87:34344	admin	REQUEST	[GET] http://207.58.154.226:8080/
+06:26:44.123	139.162.79.87:34344	admin	200		192.48 ms
+06:35:11.665	115.231.218.29:4808	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+06:35:11.691	115.231.218.29:4808	admin	404	No function found that matches the request.	26.68 ms
+06:39:27.653	125.211.219.133:63367	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+06:39:27.680	125.211.219.133:63367	admin	404	No function found that matches the request.	27.95 ms
+07:05:12.149	66.249.64.159:35848	admin	REQUEST	[GET] http://tcadrt.org/
+07:05:12.576	66.249.64.159:35848	admin	200		427.92 ms
+07:13:12.059	220.181.159.73:33556	admin	REQUEST	[GET] http://207.58.154.226/
+07:13:12.255	220.181.159.73:33556	admin	200		195.83 ms
+07:23:38.045	5.188.10.104:42064	admin	REQUEST	[GET] http://207.58.154.226:8080/
+07:23:38.969	5.188.10.104:42064	admin	200		923.32 ms
+07:35:26.198	5.188.10.104:49024	admin	REQUEST	[GET] http://207.58.154.226/
+07:35:27.645	5.188.10.104:49024	admin	200		1447.1 ms
+07:35:59.845	91.230.47.3:49856	admin	REQUEST	[GET] http://localhost:8080/
+07:36:01.754	91.230.47.3:49856	admin	200		1909.47 ms
+07:47:29.149	139.162.111.98:59498	admin	REQUEST	[GET] http://207.58.154.226/
+07:47:29.269	139.162.111.98:59498	admin	200		120.67 ms
+08:35:11.221	114.215.220.249:56988	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+08:35:11.247	114.215.220.249:56988	admin	404	No function found that matches the request.	26.29 ms
+08:36:06.672	91.230.47.3:37896	admin	REQUEST	[GET] http://localhost:8080/
+08:36:08.972	91.230.47.3:37896	admin	200		2300.52 ms
+09:03:28.936	123.249.13.244:2264	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+09:03:28.958	123.249.13.244:2264	admin	404	No function found that matches the request.	22.07 ms
+10:00:05.205	222.186.52.7:3213	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+10:00:05.232	222.186.52.7:3213	admin	404	No function found that matches the request.	26.56 ms
+10:57:30.979	91.230.47.3:42644	admin	REQUEST	[GET] http://localhost:8080/
+10:57:33.991	91.230.47.3:42644	admin	200		3011.85 ms
+11:05:48.663	115.231.218.24:3707	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+11:05:48.682	115.231.218.24:3707	admin	404	No function found that matches the request.	19.26 ms
+11:11:44.061	66.249.64.155:54238	admin	REQUEST	[GET] http://tcadrt.org/tool
+11:11:44.192	66.249.64.155:54238	admin	200		130.55 ms
+11:20:17.356	5.188.10.104:44892	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+11:20:17.383	5.188.10.104:44892	admin	404	No function found that matches the request.	26.97 ms
+11:34:41.728	5.188.10.104:36082	admin	REQUEST	[GET] http://207.58.154.226/index.action
+11:34:41.754	5.188.10.104:36082	admin	404	No function found that matches the request.	26.44 ms
+11:58:06.325	91.230.47.3:38828	admin	REQUEST	[GET] http://localhost:8080/
+11:58:07.917	91.230.47.3:38828	admin	200		1592.25 ms
+13:50:19.738	222.186.56.52:4147	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+13:50:19.764	222.186.56.52:4147	admin	404	No function found that matches the request.	26.16 ms
+13:57:00.478	125.211.219.133:58792	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+13:57:00.505	125.211.219.133:58792	admin	404	No function found that matches the request.	26.75 ms
+14:26:30.833	91.230.47.3:38951	admin	REQUEST	[GET] http://localhost:8080/
+14:26:31.267	91.230.47.3:38951	admin	200		433.73 ms
+14:58:35.222	60.191.38.77:7908	admin	REQUEST	[GET] http://207.58.154.226/
+14:58:35.930	60.191.38.77:7908	admin	200		708.81 ms
+14:58:39.865	173.208.160.34:57170	admin	REQUEST	[PROPFIND] http://207.58.154.226/
+14:58:39.906	173.208.160.34:57170	admin	200		40.31 ms
+15:10:23.049	66.249.64.159:64596	admin	REQUEST	[GET] http://tcadrt.org/
+15:10:23.242	66.249.64.159:64596	admin	200		193.14 ms
+15:13:29.418	59.66.34.205:62735	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+15:13:29.444	59.66.34.205:62735	admin	404	No function found that matches the request.	26.11 ms
+15:23:32.170	5.188.10.104:47160	admin	REQUEST	[GET] http://207.58.154.226:8080/
+15:23:33.104	5.188.10.104:47160	admin	200		934.32 ms
+15:28:11.244	91.230.47.3:52703	admin	REQUEST	[GET] http://localhost:8080/
+15:28:16.157	91.230.47.3:52703	admin	200		4914.03 ms
+15:35:06.891	5.188.10.104:49934	admin	REQUEST	[GET] http://207.58.154.226/
+15:35:07.246	5.188.10.104:49934	admin	200		354.96 ms
+16:30:27.241	115.231.218.24:4565	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+16:30:27.270	115.231.218.24:4565	admin	404	No function found that matches the request.	29.54 ms
+16:48:33.757	91.236.75.4:57167	admin	REQUEST	[GET] http://www.google.com/
+16:48:34.553	91.236.75.4:57167	admin	200		796.63 ms
+17:55:40.969	139.162.79.87:40604	admin	REQUEST	[GET] http://207.58.154.226:8080/
+17:55:41.922	139.162.79.87:40604	admin	200		952.49 ms
+18:02:05.784	91.230.47.3:49714	admin	REQUEST	[GET] http://localhost:8080/
+18:02:06.713	91.230.47.3:49714	admin	200		928.59 ms
+19:04:33.437	91.230.47.3:39855	admin	REQUEST	[GET] http://localhost:8080/
+19:04:34.035	91.230.47.3:39855	admin	200		598.15 ms
+19:15:15.748	115.231.218.29:1207	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+19:15:15.788	115.231.218.29:1207	admin	404	No function found that matches the request.	40.33 ms
+19:20:10.943	5.188.10.104:39258	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+19:20:10.969	5.188.10.104:39258	admin	404	No function found that matches the request.	26.67 ms
+19:22:47.809	123.249.79.213:2408	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+19:22:47.835	123.249.79.213:2408	admin	404	No function found that matches the request.	26.35 ms
+19:34:24.232	5.188.10.104:39966	admin	REQUEST	[GET] http://207.58.154.226/index.action
+19:34:24.258	5.188.10.104:39966	admin	404	No function found that matches the request.	26.67 ms
+20:29:11.478	60.191.38.77:50012	admin	REQUEST	[GET] http://207.58.154.226/
+20:29:14.708	60.191.38.77:50012	admin	200		3230.56 ms
+21:22:58.528	91.230.47.3:36883	admin	REQUEST	[GET] http://localhost:8080/
+21:22:59.193	91.230.47.3:36883	admin	200		665.24 ms
+21:32:26.636	196.52.43.52:10000	admin	REQUEST	[GET] http://localhost:8080/
+21:32:30.591	196.52.43.52:10000	admin	200		3955.28 ms
+22:02:06.864	183.129.160.229:35210	admin	REQUEST	[GET] http://207.58.154.226/
+22:02:07.259	183.129.160.229:35210	admin	200		395.15 ms
+22:25:00.849	91.230.47.3:35264	admin	REQUEST	[GET] http://localhost:8080/
+22:25:02.525	91.230.47.3:35264	admin	200		1676.44 ms
+23:20:14.919	5.188.10.104:56296	admin	REQUEST	[GET] http://207.58.154.226:8080/login.action
+23:20:14.936	5.188.10.104:56296	admin	404	No function found that matches the request.	16.81 ms
+23:34:33.046	5.188.10.104:41710	admin	REQUEST	[GET] http://207.58.154.226/login.action
+23:34:33.072	5.188.10.104:41710	admin	404	No function found that matches the request.	25.81 ms
+23:55:47.202	183.129.160.229:51736	admin	REQUEST	[GET] http://207.58.154.226/
+23:55:48.064	183.129.160.229:51736	admin	200		862.54 ms

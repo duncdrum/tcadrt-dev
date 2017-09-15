@@ -1,0 +1,150 @@
+00:10:59.445	91.230.47.3:49516	admin	REQUEST	[GET] http://localhost:8080/
+00:11:01.916	91.230.47.3:49516	admin	200		2470.34 ms
+01:24:38.885	54.187.221.158:40247	admin	REQUEST	[GET] http://207.58.154.226/
+01:24:44.930	54.187.221.158:40247	admin	200		6045.68 ms
+01:38:25.215	178.170.189.103:60057	admin	REQUEST	[POST] http://207.58.154.226:8080/cli
+01:38:25.248	178.170.189.103:60057	admin	404	No function found that matches the request.	33.12 ms
+01:38:26.515	178.170.189.103:60347	admin	REQUEST	[POST] http://207.58.154.226:8080/cli
+01:38:26.515	178.170.189.103:60347	admin	404	No function found that matches the request.	0.43 ms
+01:59:57.118	122.114.199.228:54808	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+01:59:57.142	122.114.199.228:54808	admin	404	No function found that matches the request.	24.21 ms
+02:43:01.531	91.230.47.3:45674	admin	REQUEST	[GET] http://localhost:8080/
+02:43:02.336	91.230.47.3:45674	admin	200		805.41 ms
+03:19:54.322	5.188.10.104:58636	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+03:19:54.347	5.188.10.104:58636	admin	404	No function found that matches the request.	24.72 ms
+03:23:18.707	106.14.199.159:54858	admin	REQUEST	[GET] http://207.58.154.226 :8080/manager/html
+03:23:18.734	106.14.199.159:54858	admin	404	No function found that matches the request.	26.62 ms
+03:23:47.250	118.193.31.179:33805	admin	REQUEST	[GET] http://207.58.154.226:8080/
+03:23:48.120	118.193.31.179:33805	admin	200		870.56 ms
+03:34:07.527	5.188.10.104:48798	admin	REQUEST	[GET] http://207.58.154.226/index.action
+03:34:07.553	5.188.10.104:48798	admin	404	No function found that matches the request.	26.12 ms
+03:46:09.178	91.230.47.3:42007	admin	REQUEST	[GET] http://localhost:8080/
+03:46:12.224	91.230.47.3:42007	admin	200		3046.89 ms
+03:52:03.497	148.66.19.66:49675	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+03:52:03.529	148.66.19.66:49675	admin	404	No function found that matches the request.	32.14 ms
+04:21:37.116	164.52.7.132:48532	admin	REQUEST	[GET] http://207.58.154.226/
+04:21:37.573	164.52.7.132:48532	admin	200		456.76 ms
+04:23:22.211	139.59.170.183:24413	admin	REQUEST	[GET] http://tcadrt.org/
+04:23:22.274	139.59.170.183:24413	admin	200		63.22 ms
+04:42:18.507	5.188.10.104:37656	admin	REQUEST	[GET] http://207.58.154.226:8080/contact.action
+04:42:18.532	5.188.10.104:37656	admin	404	No function found that matches the request.	25.89 ms
+05:08:03.678	59.66.34.205:64707	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+05:08:03.704	59.66.34.205:64707	admin	404	No function found that matches the request.	26.1 ms
+06:02:39.508	91.230.47.3:54092	admin	REQUEST	[GET] http://localhost:8080/
+06:02:40.133	91.230.47.3:54092	admin	200		625.42 ms
+06:11:02.946	5.188.10.104:55142	admin	REQUEST	[GET] http://207.58.154.226/contact.action
+06:11:02.971	5.188.10.104:55142	admin	404	No function found that matches the request.	25.93 ms
+07:03:06.920	91.230.47.3:57060	admin	REQUEST	[GET] http://localhost:8080/
+07:03:10.954	91.230.47.3:57060	admin	200		4034.58 ms
+07:23:05.914	5.188.10.104:51414	admin	REQUEST	[GET] http://207.58.154.226:8080/
+07:23:06.145	5.188.10.104:51414	admin	200		231.81 ms
+07:35:07.650	5.188.10.104:55538	admin	REQUEST	[GET] http://207.58.154.226/
+07:35:07.989	5.188.10.104:55538	admin	200		338.61 ms
+07:57:45.902	66.249.64.155:42560	admin	REQUEST	[GET] http://tcadrt.org/robots.txt
+07:57:45.920	66.249.64.155:42560	admin	404	No function found that matches the request.	19.09 ms
+07:57:45.949	66.249.64.157:64144	admin	REQUEST	[GET] http://tcadrt.org/work/4821735805
+07:57:47.260	66.249.64.157:64144	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 261/32: [FODC0002] No default collection available. Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 82/12	1311.19 ms
+09:12:47.001	162.105.8.55:62631	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+09:12:47.027	162.105.8.55:62631	admin	404	No function found that matches the request.	25.91 ms
+09:34:13.982	162.105.8.55:63499	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+09:34:14.015	162.105.8.55:63499	admin	404	No function found that matches the request.	33.43 ms
+09:44:23.158	91.230.47.3:38586	admin	REQUEST	[GET] http://localhost:8080/
+09:44:24.237	91.230.47.3:38586	admin	200		1078.85 ms
+09:45:59.177	222.186.56.48:1229	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+09:45:59.203	222.186.56.48:1229	admin	404	No function found that matches the request.	26.1 ms
+10:21:39.226	162.105.8.55:63937	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+10:21:39.253	162.105.8.55:63937	admin	404	No function found that matches the request.	27.4 ms
+10:36:22.810	43.243.222.103:4954	admin	REQUEST	[GET] http://207.58.154.226:8080//index.php
+10:36:22.838	43.243.222.103:4954	admin	404	No function found that matches the request.	27.59 ms
+10:45:27.119	91.230.47.3:53008	admin	REQUEST	[GET] http://localhost:8080/
+10:45:28.288	91.230.47.3:53008	admin	200		1169.66 ms
+10:55:43.483	66.249.64.159:48464	admin	REQUEST	[GET] http://tcadrt.org/work/4832118256
+10:55:43.619	66.249.64.159:48464	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 261/32: [FODC0002] No default collection available. Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 82/12	136.17 ms
+10:59:06.479	222.29.106.222:64728	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+10:59:06.496	222.29.106.222:64728	admin	404	No function found that matches the request.	17.28 ms
+11:06:20.832	139.162.79.87:42304	admin	REQUEST	[GET] http://207.58.154.226:8080/
+11:06:21.768	139.162.79.87:42304	admin	200		935.77 ms
+11:19:47.498	5.188.10.104:47176	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+11:19:47.522	5.188.10.104:47176	admin	404	No function found that matches the request.	24.33 ms
+11:33:57.730	5.188.10.104:60320	admin	REQUEST	[GET] http://207.58.154.226/index.action
+11:33:57.756	5.188.10.104:60320	admin	404	No function found that matches the request.	26.3 ms
+12:37:51.677	155.4.230.97:53275	admin	REQUEST	[GET] http://tcadrt.org/
+12:37:51.681	155.4.230.97:12876	admin	REQUEST	[GET] http://tcadrt.org/
+12:37:52.887	155.4.230.97:53275	admin	200		1209.86 ms
+12:37:52.889	155.4.230.97:12876	admin	200		1207.96 ms
+12:50:01.599	222.29.106.222:65486	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+12:50:01.626	222.29.106.222:65486	admin	404	No function found that matches the request.	27.25 ms
+12:52:51.760	222.186.56.48:2671	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+12:52:51.786	222.186.56.48:2671	admin	404	No function found that matches the request.	26.11 ms
+13:08:47.238	91.230.47.3:46153	admin	REQUEST	[GET] http://localhost:8080/
+13:08:47.932	91.230.47.3:46153	admin	200		694.08 ms
+13:20:14.900	43.243.222.103:3724	admin	REQUEST	[GET] http://207.58.154.226:8080//shell?%75%6E%61%6D%65%20%2D%61
+13:20:14.926	43.243.222.103:3724	admin	404	No function found that matches the request.	26.45 ms
+13:48:16.493	123.249.79.213:2032	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+13:48:16.519	123.249.79.213:2032	admin	404	No function found that matches the request.	26.01 ms
+13:55:21.043	66.249.65.38:42870	admin	REQUEST	[GET] http://tcadrt.org/work/4836591618
+13:55:22.145	66.249.65.38:42870	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 261/32: [FODC0002] No default collection available. Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 82/12	1102.54 ms
+14:11:51.884	91.230.47.3:41589	admin	REQUEST	[GET] http://localhost:8080/
+14:11:52.378	91.230.47.3:41589	admin	200		493.92 ms
+14:49:21.131	209.126.136.4:40638	admin	REQUEST	[GET] http://207.58.154.226:8080/
+14:49:22.122	209.126.136.4:40638	admin	200		991.24 ms
+15:23:14.434	5.188.10.104:35460	admin	REQUEST	[GET] http://207.58.154.226:8080/
+15:23:15.306	5.188.10.104:35460	admin	200		872.88 ms
+15:24:59.187	139.162.108.53:57258	admin	REQUEST	[GET] http://207.58.154.226/
+15:24:59.335	139.162.108.53:57258	admin	200		147.92 ms
+15:35:01.191	5.188.10.104:56494	admin	REQUEST	[GET] http://207.58.154.226/
+15:35:01.781	5.188.10.104:56494	admin	200		590.11 ms
+15:47:41.439	66.249.65.40:59119	admin	REQUEST	[GET] http://tcadrt.org/work/4821509275
+15:47:42.020	66.249.65.40:59119	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 261/32: [FODC0002] No default collection available. Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 82/12	580.74 ms
+15:49:32.186	59.66.34.205:64687	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+15:49:32.212	59.66.34.205:64687	admin	404	No function found that matches the request.	26.22 ms
+16:31:18.690	91.230.47.3:60486	admin	REQUEST	[GET] http://localhost:8080/
+16:31:19.325	91.230.47.3:60486	admin	200		635.42 ms
+16:47:02.404	222.186.58.186:1793	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+16:47:02.430	222.186.58.186:1793	admin	404	No function found that matches the request.	25.98 ms
+17:33:37.177	91.230.47.3:44954	admin	REQUEST	[GET] http://localhost:8080/
+17:33:41.519	91.230.47.3:44954	admin	200		4342.48 ms
+17:44:23.029	202.104.112.190:60794	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+17:44:23.055	202.104.112.190:60794	admin	404	No function found that matches the request.	26.19 ms
+17:45:15.664	5.188.10.104:56188	admin	REQUEST	[GET] http://207.58.154.226:8080/struts2-showcase/xslt/index.action
+17:45:15.705	5.188.10.104:56188	admin	404	No function found that matches the request.	40.73 ms
+18:04:29.624	66.249.65.36:47143	admin	REQUEST	[GET] http://tcadrt.org/work/4821312917
+18:04:30.136	66.249.65.36:47143	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 261/32: [FODC0002] No default collection available. Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 82/12	512.63 ms
+18:44:29.658	59.66.34.205:65187	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+18:44:29.684	59.66.34.205:65187	admin	404	No function found that matches the request.	26.62 ms
+19:08:29.028	59.66.34.205:62967	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+19:08:29.055	59.66.34.205:62967	admin	404	No function found that matches the request.	26.52 ms
+19:14:01.975	5.188.10.104:41562	admin	REQUEST	[GET] http://207.58.154.226/struts2-showcase/xslt/index.action
+19:14:01.998	5.188.10.104:41562	admin	404	No function found that matches the request.	23.43 ms
+19:19:36.873	5.188.10.104:51284	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+19:19:36.904	5.188.10.104:51284	admin	404	No function found that matches the request.	31.2 ms
+19:33:47.245	5.188.10.104:40514	admin	REQUEST	[GET] http://207.58.154.226/index.action
+19:33:47.271	5.188.10.104:40514	admin	404	No function found that matches the request.	26.03 ms
+19:50:49.229	66.249.65.36:36895	admin	REQUEST	[GET] http://tcadrt.org/work/4841094759
+19:50:55.721	66.249.65.36:36895	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 261/32: [FODC0002] No default collection available. Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 82/12	6492.0 ms
+19:53:18.076	91.230.47.3:34172	admin	REQUEST	[GET] http://localhost:8080/
+19:53:18.984	91.230.47.3:34172	admin	200		907.86 ms
+19:53:27.953	179.105.89.219:48664	admin	REQUEST	[GET] http://207.58.154.226/hndUnblock.cgi
+19:53:27.979	179.105.89.219:48664	admin	404	No function found that matches the request.	26.28 ms
+19:53:28.311	179.105.89.219:48672	admin	REQUEST	[GET] http://207.58.154.226/tmUnblock.cgi
+19:53:28.311	179.105.89.219:48672	admin	404	No function found that matches the request.	0.37 ms
+19:53:28.787	179.105.89.219:48684	admin	REQUEST	[GET] http://207.58.154.226/moo
+19:53:28.787	179.105.89.219:48684	admin	404	No function found that matches the request.	0.4 ms
+19:53:29.763	179.105.89.219:43583	admin	REQUEST	[GET] http://207.58.154.226/hndUnblock.cgi
+19:53:29.763	179.105.89.219:43583	admin	404	No function found that matches the request.	0.43 ms
+19:53:30.095	179.105.89.219:43588	admin	REQUEST	[GET] http://207.58.154.226/tmUnblock.cgi
+19:53:30.095	179.105.89.219:43588	admin	404	No function found that matches the request.	0.33 ms
+19:53:30.481	179.105.89.219:43594	admin	REQUEST	[GET] http://207.58.154.226/moo
+19:53:30.481	179.105.89.219:43594	admin	404	No function found that matches the request.	0.41 ms
+20:53:51.900	91.230.47.3:54075	admin	REQUEST	[GET] http://localhost:8080/
+20:53:52.514	91.230.47.3:54075	admin	200		614.19 ms
+21:08:00.566	125.26.206.176:3681	admin	REQUEST	[GET] http://localhost:8080/
+21:08:01.292	125.26.206.176:3681	admin	200		726.45 ms
+21:47:23.295	64.233.172.189:52603	admin	REQUEST	[GET] http://tcadrt.org/
+21:47:24.190	64.233.172.189:52603	admin	200		895.3 ms
+23:19:39.108	5.188.10.104:50352	admin	REQUEST	[GET] http://207.58.154.226:8080/login.action
+23:19:39.138	5.188.10.104:50352	admin	404	No function found that matches the request.	30.6 ms
+23:25:27.048	91.230.47.3:49876	admin	REQUEST	[GET] http://localhost:8080/
+23:25:28.126	91.230.47.3:49876	admin	200		1077.63 ms
+23:33:50.581	5.188.10.104:37696	admin	REQUEST	[GET] http://207.58.154.226/login.action
+23:33:50.607	5.188.10.104:37696	admin	404	No function found that matches the request.	26.15 ms
