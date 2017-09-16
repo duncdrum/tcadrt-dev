@@ -1,7 +1,7 @@
 (:~
  : Utility functions.
  :
- : @author Christian Grün, BaseX Team, 2014-16
+ : @author Christian Grün, BaseX Team, 2014-17
  :)
 module namespace util = 'dba/util';
 
@@ -44,30 +44,6 @@ declare %private function util:query-options() as map(*) {
     'memory'    : $cons:OPTION($cons:K-MEMORY),
     'permission': $cons:OPTION($cons:K-PERMISSION)
   }
-};
-
-(:~
- : Checks if the specified binary input can be converted to an XML string.
- : @param  $input  input
- : @return XML string
- :)
-declare function util:to-xml-string(
-  $input  as xs:base64Binary
-) as xs:string {
-  let $string :=
-    try {
-      convert:binary-to-string($input)
-    } catch * {
-      error((), "Input is no valid UTF8 string.")
-    }
-  return
-    try {
-      (: tries to convert the input to XML, but discards the results :)
-      prof:void(parse-xml($string)),
-      $string
-    } catch * {
-      error((), "Input is no well-formed XML.")
-    }
 };
 
 (:~
@@ -119,4 +95,45 @@ declare function util:chop(
   ) else (
     $string
   )
+};
+
+(:~
+ : Joins sequence entries.
+ : @param  $items  items
+ : @param  $sep    separator
+ : @return result
+ :)
+declare function util:item-join(
+  $items  as item()*,
+  $sep    as item()
+) {
+  for $item at $pos in $items
+  return ($sep[$pos > 1], $item)
+};
+
+(:~
+ : Returns a count info for the specified items.
+ : @param  $items   items
+ : @param  $name    name of item (singular form)
+ : @param  $action  action label (past tense)
+ : @return result
+ :)
+declare function util:info(
+  $items   as item()*,
+  $name    as xs:string,
+  $action  as xs:string
+) as xs:string {
+  let $count := count($items)
+  return $count || ' ' || $name || (if($count > 1) then 's were ' else ' was ') || $action || '.'
+};
+
+(:~
+ : Capitalizes a string.
+ : @param  $string  string
+ : @return capitalized string
+ :)
+declare function util:capitalize(
+  $string  as xs:string
+) as xs:string {
+  upper-case(substring($string, 1, 1)) || substring($string, 2)
 };

@@ -1,11 +1,9 @@
 (:~
  : Resource handling.
  :
- : @author Christian Grün, BaseX Team, 2014-16
+ : @author Christian Grün, BaseX Team, 2014-17
  :)
 module namespace dba = 'dba/databases';
-
-import module namespace cons = 'dba/cons' at '../../modules/cons.xqm';
 
 (:~ Top category :)
 declare variable $dba:CAT := 'databases';
@@ -17,6 +15,7 @@ declare variable $dba:SUB := 'database';
  : @param  $action    action to perform
  : @param  $name      name of resource
  : @param  $resource  resource
+ : @return redirection
  :)
 declare
   %rest:POST

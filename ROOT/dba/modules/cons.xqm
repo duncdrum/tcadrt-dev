@@ -1,7 +1,7 @@
 (:~
  : Global constants and functions.
  :
- : @author Christian Grün, BaseX Team, 2014-16
+ : @author Christian Grün, BaseX Team, 2014-17
  :)
 module namespace cons = 'dba/cons';
 
@@ -17,6 +17,9 @@ declare variable $cons:SESSION-VALUE := Session:get($cons:SESSION-KEY);
 declare variable $cons:DBA-DIR := file:temp-dir() || 'dba/';
 (:~ Configuration file. :)
 declare variable $cons:DBA-SETTINGS-FILE := $cons:DBA-DIR || 'dba-settings.xml';
+
+(:~ Query file suffix. :)
+declare variable $cons:SUFFIX := '.xq';
 
 (:~ Permissions. :)
 declare variable $cons:PERMISSIONS := ('none', 'read', 'write', 'create', 'admin');
@@ -71,7 +74,7 @@ declare variable $cons:OPTION :=
 declare function cons:check(
 ) as empty-sequence() {
   if($cons:SESSION-VALUE) then () else
-    error(xs:QName('basex:login'), 'Please log in again.', Request:path())
+    error(xs:QName('basex:login'), 'Please log in again', Request:path())
 };
 
 (:~
