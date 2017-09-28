@@ -1,0 +1,30 @@
+<base-classes>
+  <record>
+    <id>$root</id>
+    <class>schema:LandmarksOrHistoricalBuildings</class>
+  </record>
+  <record>
+    <id>_:2</id>
+    <class>dcterms:PeriodOfTime</class>
+  </record>
+  <record>
+    <id>_:3</id>
+    <class>schema:GeoCoordinates</class>
+  </record>
+  <record>
+    <id>_:4</id>
+    <class>time:Instant</class>
+  </record>
+  <record>
+    <id>_:5</id>
+    <class>time:Instant</class>
+  </record>
+  <record>
+    <id>_:6</id>
+    <class>time:GeneralDateTimeDescription</class>
+  </record>
+  <record>
+    <id>_:7</id>
+    <class>time:GeneralDateTimeDescription</class>
+  </record>
+</base-classes>

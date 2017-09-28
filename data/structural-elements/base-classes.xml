@@ -1,0 +1,6 @@
+<base-classes>
+  <record>
+    <id>$root</id>
+    <class>rdf:Property</class>
+  </record>
+</base-classes>

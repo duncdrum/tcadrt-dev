@@ -1,0 +1,34 @@
+<namespaces>
+  <record>
+    <curie>rdf</curie>
+    <value>http://www.w3.org/1999/02/22-rdf-syntax-ns#</value>
+  </record>
+  <record>
+    <curie>rdfs</curie>
+    <value>http://www.w3.org/2000/01/rdf-schema#</value>
+  </record>
+  <record>
+    <curie>xsd</curie>
+    <value>http://www.w3.org/2001/XMLSchema#</value>
+  </record>
+  <record>
+    <curie>foaf</curie>
+    <value>http://xmlns.com/foaf/0.1/</value>
+  </record>
+  <record>
+    <curie>dc</curie>
+    <value>http://purl.org/dc/elements/1.1/</value>
+  </record>
+  <record>
+    <curie>dcterms</curie>
+    <value>http://purl.org/dc/terms/</value>
+  </record>
+  <record>
+    <curie>skos</curie>
+    <value>http://www.w3.org/2004/02/skos/core#</value>
+  </record>
+  <record>
+    <curie>tcao</curie>
+    <value>http://tcadrt.org/ontology/</value>
+  </record>
+</namespaces>
